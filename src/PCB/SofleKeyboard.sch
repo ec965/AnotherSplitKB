@@ -752,37 +752,37 @@ $EndComp
 $Comp
 L SofleKeyboard-rescue:LED-Lily58-cache-Lily58_Pro-rescue J1
 U 1 1 5B74AE32
-P 4000 3550
-F 0 "J1" H 4000 3750 50  0000 C CNN
-F 1 "LED" H 4000 3350 50  0000 C CNN
-F 2 "SofleKeyboard-footprint:LED" H 4000 3550 50  0001 C CNN
-F 3 "" H 4000 3550 50  0001 C CNN
-	1    4000 3550
+P 4150 3700
+F 0 "J1" H 4150 3900 50  0000 C CNN
+F 1 "LED" H 4150 3500 50  0000 C CNN
+F 2 "SofleKeyboard-footprint:LED" H 4150 3700 50  0001 C CNN
+F 3 "" H 4150 3700 50  0001 C CNN
+	1    4150 3700
 	1    0    0    -1  
 $EndComp
 $Comp
 L SofleKeyboard-rescue:VCC-Lily58-cache-Lily58_Pro-rescue #PWR07
 U 1 1 5B74B06A
-P 4200 3450
-F 0 "#PWR07" H 4200 3300 50  0001 C CNN
-F 1 "VCC" H 4217 3623 50  0000 C CNN
-F 2 "" H 4200 3450 50  0001 C CNN
-F 3 "" H 4200 3450 50  0001 C CNN
-	1    4200 3450
+P 4350 3600
+F 0 "#PWR07" H 4350 3450 50  0001 C CNN
+F 1 "VCC" H 4367 3773 50  0000 C CNN
+F 2 "" H 4350 3600 50  0001 C CNN
+F 3 "" H 4350 3600 50  0001 C CNN
+	1    4350 3600
 	1    0    0    -1  
 $EndComp
 $Comp
 L SofleKeyboard-rescue:GND-Lily58-cache-Lily58_Pro-rescue #PWR08
 U 1 1 5B74B15A
-P 4200 3650
-F 0 "#PWR08" H 4200 3400 50  0001 C CNN
-F 1 "GND" H 4205 3477 50  0000 C CNN
-F 2 "" H 4200 3650 50  0001 C CNN
-F 3 "" H 4200 3650 50  0001 C CNN
-	1    4200 3650
+P 4350 3800
+F 0 "#PWR08" H 4350 3550 50  0001 C CNN
+F 1 "GND" H 4355 3627 50  0000 C CNN
+F 2 "" H 4350 3800 50  0001 C CNN
+F 3 "" H 4350 3800 50  0001 C CNN
+	1    4350 3800
 	1    0    0    -1  
 $EndComp
-Text GLabel 4200 3550 2    50   Input ~ 0
+Text GLabel 4350 3700 2    50   Input ~ 0
 LED
 $Comp
 L SofleKeyboard-rescue:GND-Lily58-cache-Lily58_Pro-rescue #PWR010

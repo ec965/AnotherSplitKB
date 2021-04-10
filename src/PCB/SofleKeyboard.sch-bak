@@ -1363,8 +1363,6 @@ row4
 Wire Wire Line
 	5250 5150 6100 5150
 Connection ~ 6100 5150
-Wire Wire Line
-	3500 4550 3400 4550
 $Comp
 L Device:Jumper_NO_Small JP_SCL1
 U 1 1 6060DB81
@@ -1398,19 +1396,25 @@ Wire Wire Line
 $Comp
 L Device:Jumper_NO_Small JP_SDA1
 U 1 1 6061904C
-P 3400 4650
-F 0 "JP_SDA1" H 3400 4600 50  0000 C CNN
-F 1 "Jumper_NO_Small" H 3400 4744 50  0001 C CNN
-F 2 "SofleKeyboard-footprint:Jumper" H 3400 4650 50  0001 C CNN
-F 3 "~" H 3400 4650 50  0001 C CNN
-	1    3400 4650
-	0    1    1    0   
+P 3600 4800
+F 0 "JP_SDA1" H 3600 4750 50  0000 C CNN
+F 1 "Jumper_NO_Small" H 3600 4894 50  0001 C CNN
+F 2 "SofleKeyboard-footprint:Jumper" H 3600 4800 50  0001 C CNN
+F 3 "~" H 3600 4800 50  0001 C CNN
+	1    3600 4800
+	-1   0    0    1   
 $EndComp
-Connection ~ 3400 4550
-Wire Wire Line
-	3400 4550 3150 4550
-Text GLabel 3400 4900 3    50   Input ~ 0
+Text GLabel 3850 4800 2    50   Input ~ 0
 SDA
 Wire Wire Line
-	3400 4900 3400 4750
+	3700 4800 3850 4800
+Wire Wire Line
+	3150 4550 3400 4550
+Wire Wire Line
+	3500 4800 3400 4800
+Wire Wire Line
+	3400 4800 3400 4550
+Connection ~ 3400 4550
+Wire Wire Line
+	3400 4550 3500 4550
 $EndSCHEMATC

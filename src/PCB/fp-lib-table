@@ -3,4 +3,5 @@
   (lib (name Keebio-Parts)(type KiCad)(uri /home/enochc/Documents/KiCad/AnotherSplitKB/lib/Keebio-Parts.pretty)(options "")(descr ""))
   (lib (name keyboard_parts)(type KiCad)(uri /home/enochc/Documents/KiCad/AnotherSplitKB/lib/keyboard_parts.pretty)(options "")(descr ""))
   (lib (name SofleKeyboard-footprint)(type KiCad)(uri /home/enochc/Documents/KiCad/AnotherSplitKB/lib/SofleKeyboard-footprint.pretty)(options "")(descr ""))
+  (lib (name art)(type KiCad)(uri /home/enochc/Documents/KiCad/AnotherSplitKB/src/art)(options "")(descr ""))
 )
