@@ -1,7 +1,8 @@
 (fp_lib_table
-  (lib (name art)(type KiCad)(uri G:/Documents/KiCad/projects/GIS/src/art)(options "")(descr ""))
-  (lib (name choc)(type KiCad)(uri G:/Documents/KiCad/projects/GIS/lib/choc.pretty)(options "")(descr ""))
-  (lib (name Keebio-Parts)(type KiCad)(uri G:/Documents/KiCad/projects/GIS/lib/Keebio-Parts.pretty)(options "")(descr ""))
-  (lib (name keyboard_parts)(type KiCad)(uri G:/Documents/KiCad/projects/GIS/lib/keyboard_parts.pretty)(options "")(descr ""))
-  (lib (name SofleKeyboard-footprint)(type KiCad)(uri G:/Documents/KiCad/projects/GIS/lib/SofleKeyboard-footprint.pretty)(options "")(descr ""))
+  (lib (name art)(type KiCad)(uri ~/KiCad/GIS/src/art)(options "")(descr ""))
+  (lib (name choc)(type KiCad)(uri ~/KiCad/GIS/lib/choc.pretty)(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri ~/KiCad/GIS/lib/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri ~/KiCad/GIS/lib/keyboard_parts.pretty)(options "")(descr ""))
+  (lib (name SofleKeyboard-footprint)(type KiCad)(uri ~/KiCad/GIS/lib/SofleKeyboard-footprint.pretty)(options "")(descr ""))
+  (lib (name kbd)(type KiCad)(uri /home/enochc/KiCad/GIS/lib/kbd/kicad-footprints/kbd.pretty)(options "")(descr ""))
 )
