@@ -9,6 +9,12 @@ GIS is a recursive acronym that stands for "GIS is split"
 ## Firmware
 [QMK](https://github.com/ec965/qmk_firmware/tree/split-kb/keyboards/gis)
 
-# Spec
+## Spec
 
 * 58 switches
+
+## Pictures
+
+![front](/pics/front.jpg)
+
+![back](/pics/back.jpg)
