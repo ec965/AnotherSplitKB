@@ -15,6 +15,9 @@ GIS is a recursive acronym that stands for "GIS is split"
 
 ## Pictures
 
+![built](/pics/built.jpg)
+
 ![front](/pics/front.jpg)
 
 ![back](/pics/back.jpg)
+
